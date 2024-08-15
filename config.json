@@ -4,7 +4,7 @@
     "xinghuo": [
       {
         "models": ["spark-lite"],
-        "enabled": true,
+        "enabled": false,
         "credentials": {
           "appid": "5258c759",
           "api_key": "b77ae6f275d49e14e1009d91593f2d6e",
