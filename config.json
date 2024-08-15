@@ -1,0 +1,17 @@
+{
+  "load_balancing": "random",
+  "services": {
+    "xinghuo": [
+      {
+        "models": ["spark-lite"],
+        "enabled": true,
+        "credentials": {
+          "appid": "5258c759",
+          "api_key": "b77ae6f275d49e14e1009d91593f2d6e",
+          "api_secret": "YzQ2YjlkMjk1Y2M3YmFkODhlNWZmYTJi"
+        },
+        "server_url":"wss://spark-api.xf-yun.com/v3.5/chat"
+      }
+    ]
+  }
+}
